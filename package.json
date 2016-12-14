@@ -1,0 +1,18 @@
+{
+  "name"          : "things",
+  "version"       : "0.0.1",
+  "registry"      : "github",
+  "vendor"        : "ecmal",
+  "directories"   : {
+    "source"      : "src",
+    "vendor"      : "out",
+    "tests"       : "test"
+  },
+  "libraries"     : {
+    "core"        : "0.0.8",
+    "browser"     : "0.0.1",
+    "runtime"     : "0.0.12",
+    "edi"         : "0.0.1",
+    "http"        : "0.0.8"
+  }
+}
